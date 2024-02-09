@@ -1,0 +1,26 @@
+about1.png
+<a href="https://www.flaticon.com/free-icons/information" title="information icons">Information icons created by Mehwish - Flaticon</a>
+
+about2.png
+<a href="https://www.flaticon.com/free-icons/information" title="information icons">Information icons created by Maxim Basinski Premium - Flaticon</a>
+
+about3.png
+<a href="https://www.flaticon.com/free-icons/info" title="info icons">Info icons created by Freepik - Flaticon</a>
+
+about4.png
+<a href="https://www.flaticon.com/free-icons/solidarity" title="solidarity icons">Solidarity icons created by Freepik - Flaticon</a>
+
+profile1.png
+<a href="https://www.flaticon.com/free-icons/mechanic" title="mechanic icons">Mechanic icons created by Vitaly Gorbachev - Flaticon</a>
+
+afro1.png
+<a href="https://www.flaticon.com/free-icons/woman" title="woman icons">Woman icons created by Freepik - Flaticon</a>
+
+afro2
+<a href="https://www.flaticon.com/free-icons/urban-tribe" title="urban tribe icons">Urban tribe icons created by Freepik - Flaticon</a>
+
+woman512
+<a href="https://www.flaticon.com/free-icons/sunglasses" title="sunglasses icons">Sunglasses icons created by Freepik - Flaticon</a>
+
+woman256
+<a href="https://www.flaticon.com/free-icons/sunglasses" title="sunglasses icons">Sunglasses icons created by Freepik - Flaticon</a>

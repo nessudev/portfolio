@@ -1,0 +1,196 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Containers*/
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.colour-section {
+  background-color: #93c47d;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Title Section*/
+
+#title .container-fluid {
+  padding: 3% 15% 0%;
+  text-align: left;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  right: 30%;
+}
+
+.code-img {
+  text-align: center;
+}
+
+
+/* Projects Section*/
+
+#projects {
+  padding: 100px;
+}
+
+.project-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.project-column {
+  padding: 3% 2%;
+}
+
+.project-image {
+  width: 200px;
+  height: 150px;
+}
+
+.project-button-link {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Use the same color as the surrounding text */
+}
+
+.project-button-link:hover{
+  color: #fff;
+}
+
+/* Footer Section */
+
+hr {
+  border: dotted #8f8f8f 6px;
+  border-bottom: none;
+  width: 50%;
+  margin: 20px auto;
+}
+
+#footer {
+  color: #8f8f8f;
+  /* color: #fff; */
+}
+
+.footer-copyright {
+  color: #8f8f8f;
+  /* color: #fff; */
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* Media Queries */
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+
+
+
+
+/* Contact Page*/
+
+.contact-div{
+  width: 100%;
+  text-align: center;
+
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.contact-details {
+  /* 1ch is equivalent to the width of the 0 character at the current
+      font size. This allows to create a roughly one letter gap bewteen
+      the contact label and the associated contact detail */
+
+  margin-left: 1ch;
+}
+
+.contact-link {
+  color: #000;
+  text-decoration: none;
+
+  /* We can modify the text decoration colour and thickness to
+      create a custom underline, but the text-decoration-thickness
+      property isn't currently supported on Chrome.
+
+      Using box-shadow to simulate the underline gives us a
+      cross-browser solution. */
+
+  box-shadow: 0 3px 0 0 #8f8f8f;
+}
+
+.contact-link:hover {
+  color: #8f8f8f;
+}

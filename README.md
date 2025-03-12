@@ -3,7 +3,7 @@
 This is a project of my portfolio website.
 I designed the website layout first with Figma. The website is done using HTML, CSS and Bootstrap.
 
-Link to the [Portfolio](https://vanessadonkor.github.io/portfolio/).
+Link to the [Portfolio]().
 
 
 ## Design of the portfolio
